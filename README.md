@@ -1,4 +1,4 @@
-![Gmail Badge](https://img.shields.io/badge/-marinho.rj2@hotmail.com-000?style=flat-square&logo=gmail&logoColor=white&link=https://github.com/yagomarinho)
+![Gmail Badge](https://img.shields.io/badge/-marinho.rj2@hotmail.com-fafafa?style=flat-square&logo=gmail&logoColor=red&link=https://github.com/yagomarinho)
 [![Linkedin Badge](https://img.shields.io/badge/-Yago_Marinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-marinho/)](https://www.linkedin.com/in/yago-marinho/)
 [![Twitter Badge](https://img.shields.io/badge/-@marinho_rj2-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marinho_rj2)](https://twitter.com/marinho_rj2)
 
