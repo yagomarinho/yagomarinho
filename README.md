@@ -10,7 +10,7 @@
 
 * Currently learning about UX/UI design at Ironhack's bootcamp to improve my skills :books:  
 
-*I have no special talents. I am only passionately curious* (Einstein, Albert)
+#####*"I have no special talents. I am only passionately curious"* (Einstein, Albert)
 <!--
 **yagomarinho/yagomarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
