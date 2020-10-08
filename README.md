@@ -9,6 +9,7 @@
 * Currently focused on working with NodeJS, ReactJS and React-Native web applications :dart:  
 
 * Currently learning about UX/UI design at Ironhack's bootcamp to improve my skills :books:  
+  
 
 ##### *"I have no special talents. I am only passionately curious"* (Einstein, Albert)
 <!--
