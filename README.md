@@ -1,7 +1,8 @@
 ### Hi there, I'm Yago Marinho 👋
 
-Full Stack Developer
-
+I'm a full stack developer, certified by Rocketseat
+Currently focused on working with NodeJS, ReactJS and React-Native web applications
+Currently learning about UX/UI design at Ironhack's bootcamp to improve my skills
 
 #### Find me elsewhere 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yagomarinho)](https://github.com/yagomarinho)
