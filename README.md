@@ -1,5 +1,5 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yagomarinho)](https://github.com/yagomarinho)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-marinho/)](https://www.linkedin.com/in/yago-marinho/)
+[![Linkedin Badge](https://img.shields.io/badge/-Yago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-marinho/)](https://www.linkedin.com/in/yago-marinho/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marinho_rj2)](https://twitter.com/marinho_rj2)
 
 ### Hi there, I'm Yago Marinho 👋
