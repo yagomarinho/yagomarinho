@@ -4,11 +4,9 @@
 
 ### Hi there, I'm Yago Marinho 👋
 
-* I'm a full stack developer, certified by Rocketseat :purple_heart:  
+I’m a Fullstack Developer with over 6 years of experience, certified by Rocketseat and trained in UX/UI Design at Ironhack. I currently work with React, designing and developing products that prioritize user experience while integrating technologies such as ReactJS, NextJS, NodeJS, and TypeScript.
 
-* Currently focused on working with NodeJS, ReactJS and React-Native web applications :dart:  
-
-* Currently learning about UX/UI design at Ironhack's bootcamp to improve my skills :books:  
+My focus is on creating solutions that blend technical excellence with user-centered design. I’m skilled in Design Thinking, usability testing, user stories, and design systems — bringing a complete approach to software development and design.
   
 
 ##### *"I have no special talents. I am only passionately curious"* (Einstein, Albert)
